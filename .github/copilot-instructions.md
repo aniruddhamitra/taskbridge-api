@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This document defines the technology stack, architecture conventions, coding standards, and security rules for TaskBridge API. All developers using GitHub Copilot (or other AI tools) must follow these guidelines to ensure consistent, production-ready, and secure code.
+This document defines the technology stack, architecture conventions, coding standards, and security rules for TaskBridge API. All developers using GitHub Copilot (or other AI tools)  follow these guidelines to ensure consistent, production-ready, and secure code.
 
 ---
 
